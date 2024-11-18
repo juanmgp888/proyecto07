@@ -11,3 +11,4 @@ public class Proyecto07Application {
 	}
 
 }
+// Arrancar F5 y en el navegador: localhost:8080/bienvenida?nombre="Juan"
